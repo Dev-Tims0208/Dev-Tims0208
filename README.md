@@ -7,13 +7,10 @@
 Dev-Tims0208/Dev-Tims0208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tims0208&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tims0208&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev_tims0208)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tims0208&show_icons=true&theme=transparent)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tims0208&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+
