@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<p class="align-center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tims0208&show_icons=true&theme=transparent)" alt="github" />
- </p>
+<kbd>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tims0208&show_icons=true&theme=transparent)
+ </kbd>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tims0208&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
