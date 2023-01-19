@@ -8,5 +8,6 @@ Dev-Tims0208/Dev-Tims0208 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev_tims0208&show_icons=true&theme=transparent)
  
 
