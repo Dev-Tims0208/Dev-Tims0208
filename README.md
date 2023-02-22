@@ -4,6 +4,7 @@
 - Currently into .NET Core and ReactJS and MERN Stack
 - Does not watch bad stuff 
 - Copy stuff from here then claim it on social media that you did it XD
+- Just kidding, it's on you if you act like you did it from scratch, just remember to be humble and be grateful the OG's. XD
 <!---
 Dev-Tims0208/Dev-Tims0208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
