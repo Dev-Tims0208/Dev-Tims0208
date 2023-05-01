@@ -6,7 +6,7 @@ I'm a self taught Full-Stack Web and App Developer who has been coding for the p
 
 ### Experience/Timeline
 **January 2022 - Present** &emsp;&emsp; _[City Government of Puerto Princesa](https://github.com/CGPP-CMISD) (NET Core/Android, Full Stack Developer)_ </br>
-**March 2021 - January 2022** &emsp;&emsp;_[Zerobstacle Technologies](https://github.com/Zerobstacle) (Capacitor/Corova Android, Front-end Developer)_ </br>
+**March 2021 - January 2022** &emsp;&emsp;_[Zerobstacle Technologies](https://github.com/Zerobstacle) (Capacitor/Cordova Android, Front-end Developer)_ </br>
 **January 2019 - March 2021** &emsp;&emsp; Freelance Web Developer (Web App, Front-end Developer)_ </br>
 **June 2017 - January 2019** &emsp;&emsp;&emsp;Junior/Apprentice Web Developer  (Web App, Front-end Developer)_ </br>
 
