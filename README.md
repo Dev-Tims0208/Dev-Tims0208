@@ -45,5 +45,7 @@ Online communities
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tims0208&show_icons=true&theme=transparent)
  
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev_tims0208)](https://github.com/anuraghazra/github-readme-stats)
+
+ <a href="https://app.daily.dev/devtims0208"><img src="https://api.daily.dev/devcards/v2/jky3qyZGg9mSel46nHRHS.png?type=default&r=dyq" width="356" alt="TJ Eroy's Dev Card"/></a>
  
 
