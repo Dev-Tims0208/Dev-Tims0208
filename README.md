@@ -3,6 +3,7 @@
 
    <br>
   <img align="left" alt="rd_logo" width="200px" src="https://wakatime.com/badge/user/49e079ef-30df-4e9d-9542-510451335cf4.svg" />
+   <br>
 
 ### About 
 I'm a self taught Full-Stack Web and App Developer who has been coding for the past several years, creating websites and applications using modern technologies. I've also developed skills in Software System Design and Analysis, able to adapt and execute innovative tools and applications to my clients. After discovering my interest for web and app development, it was natural that I'd like to work with other talented professionals. I am constantly trying to learn more as technology progresses and fulfill modern demands.
